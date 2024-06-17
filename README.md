@@ -1,1 +1,3 @@
-# 한컴타자연습-완성
+## c-hancomtaja
+
+### school-C-project
